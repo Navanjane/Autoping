@@ -3,9 +3,10 @@ import time
 
 def pingAuto():
 	count=0
+	time_val =0
 	packets=input("Enter no of packets -c: ")
-
 	host=input("Enter Hostname: ")
+	time_val=int(input("Enter Time Interval (in Seconds): "))
 	while True:
 		count+=1
 		p= subprocess.Popen(["ping","-c",packets,host],stdout=subprocess.PIPE)
@@ -16,10 +17,8 @@ def pingAuto():
 		strout = str(output,'utf-8')
 		countout = str(count)
 		temp = "Attempt "+countout+"\n"+strout
-	#file1.write("Attempt "+countout)
-	#file1.write(strout)
 		file1.write(temp)
-		time.sleep(3)
-		print("sleeping or 3 seconds.....\n")
+		time.sleep(time_val)
+		print("sleeping for ",time_val," second(s).....\n")
 
 pingAuto()

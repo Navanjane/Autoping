@@ -1,0 +1,564 @@
+Attempt 1
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=2.46 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=2.41 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.83 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.82 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.820/2.132/2.461/0.311 ms
+Attempt 2
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.86 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=2.23 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.38 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=3.25 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 1.387/2.184/3.253/0.687 ms
+Attempt 3
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.29 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.18 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.14 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.12 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.120/1.186/1.295/0.075 ms
+Attempt 4
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.10 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.91 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.23 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=3.36 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.104/1.905/3.361/0.895 ms
+Attempt 5
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.17 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.34 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=3.61 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.14 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.147/1.822/3.619/1.040 ms
+Attempt 6
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.62 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.952 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.95 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.45 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.952/1.499/1.958/0.363 ms
+Attempt 7
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.46 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.38 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=3.28 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.57 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 1.384/1.926/3.284/0.788 ms
+Attempt 8
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=2.25 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.916 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.963 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=0.907 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.907/1.261/2.259/0.576 ms
+Attempt 9
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.890 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.14 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.01 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3027ms
+rtt min/avg/max/mdev = 0.890/1.042/1.146/0.105 ms
+Attempt 10
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.888 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.01 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.939 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.14 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 0.888/0.995/1.140/0.094 ms
+Attempt 11
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=2.65 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=2.90 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.09 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.44 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.094/2.024/2.906/0.771 ms
+Attempt 12
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.71 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.940 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.65 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.71 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 0.940/1.505/1.718/0.331 ms
+Attempt 13
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=67.8 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.25 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.09 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.099/17.826/67.834/28.872 ms
+Attempt 14
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.906 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.902 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.920 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.11 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3025ms
+rtt min/avg/max/mdev = 0.902/0.961/1.116/0.089 ms
+Attempt 15
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.35 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.12 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.30 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.13 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.124/1.228/1.356/0.110 ms
+Attempt 16
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.965 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.966 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.09 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.06 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.965/1.022/1.097/0.070 ms
+Attempt 17
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.927 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.925 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=0.953 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3031ms
+rtt min/avg/max/mdev = 0.925/0.979/1.113/0.083 ms
+Attempt 18
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.14 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.02 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.26 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.12 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.021/1.139/1.269/0.091 ms
+Attempt 19
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.28 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.923 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.13 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.19 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.923/1.134/1.284/0.139 ms
+Attempt 1
+Attempt 2
+Attempt 3
+Attempt 4
+Attempt 5
+Attempt 6
+Attempt 7
+Attempt 1
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3064ms
+
+Attempt 2
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3050ms
+
+Attempt 3
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+
+Attempt 4
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3050ms
+
+Attempt 5
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+
+Attempt 6
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+
+Attempt 7
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+
+Attempt 8
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3051ms
+
+Attempt 1
+Attempt 2
+Attempt 3
+Attempt 4
+Attempt 1
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=2.68 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=2.06 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.72 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=2.01 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 1.720/2.121/2.684/0.353 ms
+Attempt 2
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.27 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.38 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.21 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.27 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.218/1.287/1.389/0.072 ms
+Attempt 3
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.12 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.19 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.06 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.16 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.068/1.137/1.194/0.047 ms
+Attempt 4
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.21 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.15 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.20 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=0.975 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.975/1.138/1.217/0.099 ms
+Attempt 5
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=5.87 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.05 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.00 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.14 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 1.003/2.268/5.878/2.084 ms
+Attempt 6
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=3.29 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.00 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.14 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.02 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.004/1.618/3.299/0.972 ms
+Attempt 7
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.945 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.00 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=3.82 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.22 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 0.945/1.751/3.829/1.204 ms
+Attempt 8
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.42 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.43 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=2.08 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.00 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 1.003/1.488/2.089/0.388 ms
+Attempt 9
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.37 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.35 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.12 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 1.112/1.244/1.378/0.127 ms
+Attempt 10
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.972 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.10 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.11 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.972/1.075/1.113/0.064 ms
+Attempt 11
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=2.79 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.02 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.958 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.11 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.958/1.475/2.799/0.766 ms
+Attempt 12
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.953 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.11 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.966 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=0.936 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.936/0.991/1.110/0.072 ms
+Attempt 13
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.942 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=0.981 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.09 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.10 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.942/1.030/1.109/0.081 ms
+Attempt 14
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.44 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.73 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.01 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=1.10 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 1.011/1.325/1.738/0.291 ms
+Attempt 15
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=0.936 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.12 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=0.909 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=2.22 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 0.909/1.299/2.229/0.543 ms
+Attempt 16
+PING 192.168.8.1 (192.168.8.1) 56(84) bytes of data.
+64 bytes from 192.168.8.1: icmp_seq=1 ttl=64 time=1.07 ms
+64 bytes from 192.168.8.1: icmp_seq=2 ttl=64 time=1.32 ms
+64 bytes from 192.168.8.1: icmp_seq=3 ttl=64 time=1.00 ms
+64 bytes from 192.168.8.1: icmp_seq=4 ttl=64 time=0.891 ms
+
+--- 192.168.8.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 0.891/1.072/1.323/0.163 ms
+Attempt 1
+PING dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=1019 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=1001 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=1015 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=1664 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3035ms
+rtt min/avg/max/mdev = 1001.818/1175.404/1664.269/282.324 ms, pipe 2
+Attempt 2
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=1019 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=1002 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=1015 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 3034ms
+rtt min/avg/max/mdev = 1002.222/1012.358/1019.666/7.487 ms, pipe 2
+Attempt 1
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=747 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=923 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=362 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=4 ttl=48 time=418 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 4636ms
+rtt min/avg/max/mdev = 362.673/612.872/923.530/231.840 ms
+Attempt 1
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=985 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=993 ms
+
+--- dronixs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1118ms
+rtt min/avg/max/mdev = 985.544/989.673/993.803/4.247 ms
+Attempt 1
+PING dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=845 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=966 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=990 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=1015 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=5 ttl=48 time=417 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=6 ttl=48 time=946 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=7 ttl=48 time=970 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=8 ttl=48 time=994 ms
+
+--- dronixs.com ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7012ms
+rtt min/avg/max/mdev = 417.011/893.283/1015.710/186.363 ms, pipe 2
+Attempt 1
+PING dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=1026 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=1007 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=928 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=1669 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3027ms
+rtt min/avg/max/mdev = 928.644/1157.981/1669.072/297.359 ms, pipe 2
+Attempt 1
+PING Dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=887 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=1007 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=416 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=947 ms
+
+--- Dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+rtt min/avg/max/mdev = 416.617/814.642/1007.507/233.691 ms, pipe 2
+Attempt 1
+PING dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=531 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=744 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=910 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=293 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3001ms
+rtt min/avg/max/mdev = 293.850/619.922/910.083/231.232 ms
+Attempt 1
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=957 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=573 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=573 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=4 ttl=48 time=299 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3905ms
+rtt min/avg/max/mdev = 299.104/600.796/957.417/234.365 ms
+Attempt 2
+PING dronixs.com (104.24.102.148) 56(84) bytes of data.
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=1 ttl=48 time=1005 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=2 ttl=48 time=921 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=3 ttl=48 time=945 ms
+64 bytes from 104.24.102.148 (104.24.102.148): icmp_seq=4 ttl=48 time=969 ms
+
+--- dronixs.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3107ms
+rtt min/avg/max/mdev = 921.107/960.109/1005.063/31.014 ms
+Attempt 1
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=1019 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=1005 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=940 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2023ms
+rtt min/avg/max/mdev = 940.347/988.276/1019.023/34.350 ms, pipe 2
+Attempt 2
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=930 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=955 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=979 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 930.820/955.154/979.529/19.917 ms
+Attempt 3
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=931 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=955 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=979 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 931.300/955.342/979.713/19.781 ms
+Attempt 4
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=933 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=328 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=1093 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 328.662/785.207/1093.523/329.377 ms
+Attempt 1
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=419 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=957 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=981 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 419.184/785.829/981.297/259.449 ms
+Attempt 2
+PING dronixs.com (104.24.103.148) 56(84) bytes of data.
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=1 ttl=48 time=931 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=2 ttl=48 time=955 ms
+64 bytes from 104.24.103.148 (104.24.103.148): icmp_seq=3 ttl=48 time=979 ms
+
+--- dronixs.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 931.128/955.257/979.108/19.621 ms
